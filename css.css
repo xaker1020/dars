@@ -1,0 +1,111 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+.ota{width: 240px;
+height: 240px;
+background-color: #995db5;
+border-radius: 8px;
+padding: 8px;
+display: flex;
+gap: 8px;}
+.bola{width: 50px;
+height: 50px;
+background-color: orange;
+border: 1px solid black;
+}
+.box{display: flex;
+gap: 40px;
+padding:85px 185px; flex-wrap: wrap;}
+.ota1{width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+    flex-direction: column;}
+    .ota2{width: 240px;
+        height: 240px;
+        background-color: #995db5;
+        border-radius: 8px;
+        padding: 8px;
+        display: flex;
+        gap: 8px;
+          }
+        .ota3{width: 240px;
+            height: 240px;
+            background-color: #995db5;
+            border-radius: 8px;
+            padding: 8px;
+            display: flex;
+            gap: 8px; 
+            justify-content: space-between;}
+            .ota4{width: 240px;
+                height: 240px;
+                background-color: #995db5;
+                border-radius: 8px;
+                padding: 8px;
+                display: flex;
+                gap: 8px;
+                  }
+                .ota5{width: 240px;
+                    height: 240px;
+                    background-color: #995db5;
+                    border-radius: 8px;
+                    padding: 8px;
+                    display: flex;
+                    gap: 8px;
+                    justify-content: end; }
+                    .ota6{width: 240px;
+                        height: 240px;
+                        background-color: #995db5;
+                        border-radius: 8px;
+                        padding: 8px;
+                        display: flex;
+                        gap: 8px;
+                    justify-content: center;}
+                        .ota7{width: 240px;
+                            height: 240px;
+                            background-color: #995db5;
+                            border-radius: 8px;
+                            padding: 8px;
+                            display: flex;
+                            gap: 8px;
+                        justify-content: space-between;}
+                            .ota8{width: 240px;
+                                height: 240px;
+                                background-color: #995db5;
+                                border-radius: 8px;
+                                padding: 8px;
+                                display: flex;
+                                gap: 8px;
+                                flex-direction: column;}
+                                .ota9{width: 240px;
+                                    height: 240px;
+                                    background-color: #995db5;
+                                    border-radius: 8px;
+                                    padding: 8px;
+                                    display: flex;
+                                    gap: 8px;
+                                align-items: end;
+                        }
+                                    .ota10{width: 240px;
+                                        height: 240px;
+                                        background-color: #995db5;
+                                        border-radius: 8px;
+                                        padding: 8px;
+                                        display: flex;
+                                        gap: 8px;
+                                    align-items: center;}
+                                        .ota11{width: 240px;
+                                            height: 240px;
+                                            background-color: #995db5;
+                                            border-radius: 8px;
+                                            padding: 8px;
+                                            display: flex;
+                                            gap: 8px;
+                                        justify-content: space-around;}
+                                        
+                                        
+
+                                        
